@@ -12,17 +12,14 @@ The following technology platform were used
 
 
 1. Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
-
 ![test](https://github.com/madhuripanwar2020/BlockChainPathway/blob/main/DataEntry.png?raw=true)
-
 
 2. Verify the block contents and hashes in the Streamlit drop-down menu. See the screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks
-![test](https://github.com/madhuripanwar2020/BlockChainPathway/blob/main/DataEntry.png?raw=true
-
+![test](https://github.com/madhuripanwar2020/BlockChainPathway/blob/main/Validation.png?raw=true)
 
 3. Test the blockchain validation process by using the web interface. See the screenshot of the Streamlit application page, which should indicate the validity of the blockchain.
-![test](https://github.com/madhuripanwar2020/BlockChainPathway/blob/main/DataEntry.png?raw=true)
+![test](https://github.com/madhuripanwar2020/BlockChainPathway/blob/main/Validation2.png?raw=true)
 
 
-The assingment demo file is inlcuded 
+The assingment demo file is inlcuded (It was large and hence you will have to download the file to see it)
 https://github.com/madhuripanwar2020/BlockChainPathway/blob/main/Assignment1Demo.mp4
