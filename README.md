@@ -13,7 +13,6 @@ The following technology platform were used
 
 1. Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
 ![test](https://github.com/madhuripanwar2020/BlockChainPathway/blob/main/DataEntry.png?raw=true)
-
 2. Verify the block contents and hashes in the Streamlit drop-down menu. See the screenshot of the Streamlit application page, which should detail a blockchain that consists of multiple blocks
 ![test](https://github.com/madhuripanwar2020/BlockChainPathway/blob/main/Validation.png?raw=true)
 
